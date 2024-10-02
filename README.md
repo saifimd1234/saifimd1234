@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saifi</h1>
 <h3 align="center">I recently completed a data science course and am excited to apply my skills in real-world projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifimd1234&label=Profile%20views&color=0e75b6&style=flat" alt="saifimd1234" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifimd1234" alt="saifimd1234" /></a> </p>
-
 - 💬 Ask me about **SQL, python, data engineering.**
 
 - 📫 How to reach me **saifimd1234@gmail.com**
@@ -26,3 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifimd1234&show_icons=true&locale=en" alt="saifimd1234" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifimd1234&" alt="saifimd1234" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifimd1234&label=Profile%20views&color=0e75b6&style=flat" alt="saifimd1234" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifimd1234" alt="saifimd1234" /></a> </p>
